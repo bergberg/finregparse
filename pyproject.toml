@@ -1,7 +1,7 @@
 [tool.poetry]
 name = "finregparse"
 version = "0.1.0"
-description = ""
+description = "Ideas to parse financial regulatory texts with spacy."
 authors = ["Pieter van den Berg <pvdberg@gmail.com>"]
 
 [tool.poetry.dependencies]
